@@ -6,6 +6,7 @@
 
 ### You shall...
 * **_not_** pass[^5] the opportunity to check the rest of this posting
+* not need english, we use it just for fun.
 * Implement visual elements into product web pages
 * Create concepts, wireframes, mockups and prototypes that lead to intuitive user experiences.
 * Implement new features and functionality based on user stories and business insights
@@ -42,6 +43,7 @@
 * flexible vacation
 * flexible home office
 * a cool and geeky workplace
+* a LOT of growth and learning
 * more to come...
 ~~~
 

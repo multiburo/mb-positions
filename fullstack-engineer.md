@@ -4,7 +4,7 @@
 
 #### ¿Te gustaría formar parte de un equipo joven, multidisciplinario y apasionado por innovar e impactar positivamente el entorno? Esta es una excelente oportunidad para formar parte de una Startup Fintech de rápido crecimiento en uno de los sectores de mayor crecimiento a nivel mundial.
 
-#### Buscamos a un UX Designer  que su misión será ofrecer a nuestros usuarios la mejor interacción y experiencia de la industria SaaS e identificar nuevas oportunidades para el producto y el negocio a partir del análisis de información.
+#### Buscamos a un Ingeniero Fullstack que su misión será desarrollar aplicaciones web para nuestros usuarios y ofrecer la mejor interacción y experiencia de la industria SaaS
 
 #### **El reto:**
 

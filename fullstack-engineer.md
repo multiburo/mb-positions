@@ -10,8 +10,7 @@
 
 * Querer retar al ecosistema y status quo actual a través de innovación.
 * Desarrollar aplicaciones resilientes en todo su ciclo de vida
-* Apoyar al equipo de desarrollo de producto con revisiones de codigo
-* 
+* Apoyar al equipo de desarrollo de producto con revisiones de codigo* 
 
 #### **Habilidades y Herramientas:**
 

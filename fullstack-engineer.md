@@ -21,7 +21,7 @@
 * Conocimiento en HTML, CSS, JS
 * Experiencia con Bases de Datos relacionales y no relacionales
 * Experiencia trabajando en MVC con Django, Phoenix o algun otro framework
-* Experiencia usando ReactJS o Vue.js
+* Experiencia usando React o Vue.js
 * Pericia usando mecanicas de trabajo con CI/CD, revisiones de codigo, pull requests, deployment a distintos ambientes.
 * Buena comunicacion, atencion a detalle, resolucion de problemas, excelente actitud y trabajo en equipo.
 

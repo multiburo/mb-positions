@@ -8,28 +8,28 @@
 
 #### **El reto:**
 
-* Querer retar al ecosistema y status quo actual a través de innovación.
+* Querer retar al ecosistema y status quo actual a través de innovación
 * Desarrollar aplicaciones resilientes en todo su ciclo de vida
-* Apoyar al equipo de desarrollo de producto con revisiones de codigo* 
+* Apoyar al equipo de desarrollo de producto con revisiones de codigo
 
 #### **Habilidades y Herramientas:**
 
-* Tienes experiencia de 3+ años como desarrollador.
-* Experiencia trabajando con cualquier marco de Scrum.
-* Mentalidad de probar tu codigo, constante e iterativamente.
+* Tienes experiencia de 3+ años como desarrollador
+* Experiencia trabajando con cualquier marco de Scrum
+* Mentalidad de probar tu codigo, constante e iterativamente
 * Experiencia trabajando con servicios web y APIs REST
 * Conocimiento en HTML, CSS, JS
 * Experiencia con Bases de Datos relacionales y no relacionales
 * Experiencia trabajando en MVC con Django, Phoenix o algun otro framework
 * Experiencia usando React o Vue.js
-* Pericia usando mecanicas de trabajo con CI/CD, revisiones de codigo, pull requests, deployment a distintos ambientes.
-* Buena comunicacion, atencion a detalle, resolucion de problemas, excelente actitud y trabajo en equipo.
+* Pericia usando mecanicas de trabajo con CI/CD, revisiones de codigo, pull requests, deployment a distintos ambientes
+* Buena comunicacion, atencion a detalle, resolucion de problemas, excelente actitud y trabajo en equipo
 
 ### **Es un plus si:**
 
 * Haz trabajado con NextJS
-* Has sido parte de una StartUp.
-* Buen nivel de Inglés.
+* Has sido parte de una StartUp
+* Buen nivel de Inglés
 
 ### **En Multiburó valoramos tu gran talento, por lo cual te ofrecemos:**
 
@@ -40,8 +40,8 @@
 * Colabora en un ambiente de Startup.
 * Vacaciones flexibles
 * Aprendizaje constante
-* Horario de lunes a viernes 9 am - 6 pm. 
-* Aguinaldo.
+* Horario de lunes a viernes 9 am - 6 pm
+* Aguinaldo
 * ¡Oficina con jardín enorme!
 
 <div align="center">Si deseas ser parte de este gran equipo envía tu CV a:<div>

@@ -16,7 +16,7 @@
 
 * Tienes experiencia de 3+ años como desarrollador.
 * Experiencia trabajando con cualquier marco de Scrum.
-* Mentalidad de probar tu codigo, constante e interativamente.
+* Mentalidad de probar tu codigo, constante e iterativamente.
 * Experiencia trabajando con servicios web y APIs REST
 * Conocimiento en HTML, CSS, JS
 * Experiencia con Bases de Datos relacionales y no relacionales

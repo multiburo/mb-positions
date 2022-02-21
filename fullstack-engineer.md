@@ -1,4 +1,4 @@
-## UX Designer
+## Fullstack Engineer
 
 #### Somos Multiburó, plataforma única en México que permite automatizar la investigación de prospectos para el otorgamiento de créditos y renta de inmuebles. Nuestro propósito es democratizar el acceso y uso de la información valiosa.
 
@@ -22,8 +22,9 @@
 * Conocimiento en HTML, CSS, JS
 * Experiencia con Bases de Datos relacionales y no relacionales
 * Experiencia trabajando en MVC con Django, Phoenix u algun otro framework
-* Experiencia usando ReactJS
-* Pericia usando mecanicas de trabajo con CI/CD
+* Experiencia usando ReactJS o Vue.js
+* Pericia usando mecanicas de trabajo con CI/CD, revisiones de codigo, pull requests, deployment a distintos ambientes.
+* Buena comunicacion, atencion a detalle, resolucion de problemas, excelente actitud y trabajo en equipo.
 
 ### **Es un plus si:**
 
